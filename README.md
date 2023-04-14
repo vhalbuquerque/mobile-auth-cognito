@@ -11,7 +11,7 @@ Project for quick start React Native mobile authentication using AWS Cognito and
 
 ## General info
 
-This project is a quick start for React Native mobile authentication using AWS Cognito and Amplify with Social Sign-in and Login with e-mail options. It uses AWS Amplify to create a user pool, identity pool, and user pool client. *Required AWS account*
+This project is a quick start for React Native mobile authentication using AWS Cognito and Amplify with Social Sign-in and Login with e-mail options. It uses AWS Amplify to create a user pool, identity pool, and user pool client. *Required AWS account*.
 
 ## Technologies
 
@@ -24,9 +24,9 @@ Project is created with:
 
 ## Prerequisites
 
--Node.js v14.x or later
--npm v6.14.4 or later
--git v2.14.1 or later
+- Node.js v14.x or later
+- npm v6.14.4 or later
+- git v2.14.1 or later
 
 ## Setup
 
@@ -70,4 +70,4 @@ To run this project, install it locally using npm:
 $ npx expo start --clear
 ```
 
-*Hint: Use Expo Go to run in your Android or iOS device*
+*Hint: use Expo Go to run in your Android or iOS device*
